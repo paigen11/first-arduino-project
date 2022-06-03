@@ -1,0 +1,6 @@
+{
+    "sketch": "FirstSketch.ino",
+    "configuration": "pnum=SWAN_R5,upload_method=swdMethod,xserial=generic,usb=CDCgen,xusb=FS,opt=ogstd,dbg=enable,rtlib=nano",
+    "board": "STMicroelectronics:stm32:BluesW",
+    "port": "/dev/tty.usbmodem2064375B55521"
+}
